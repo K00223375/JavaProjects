@@ -3,7 +3,7 @@ import javax.swing.JOptionPane;
  *
  * @author K00223375
  */
-public class forLoopExer2 
+public class ForLoopEx2 
 {
     public static void main(String[] args)
     {

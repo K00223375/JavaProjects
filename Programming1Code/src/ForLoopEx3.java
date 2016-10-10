@@ -3,7 +3,7 @@ import javax.swing.JTextArea;
 /**
  * @author K00223375
  */
-public class forLoopExer3 {
+public class ForLoopEx3 {
 
     public static void main(String[] args) 
     {
