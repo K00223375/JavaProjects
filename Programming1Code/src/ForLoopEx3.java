@@ -29,5 +29,4 @@ public class ForLoopEx3 {
        
        JOptionPane.showMessageDialog(null, new JTextArea(output));
     }
-    
 }
